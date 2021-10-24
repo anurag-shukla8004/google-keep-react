@@ -78,7 +78,7 @@ textarea {
   position: absolute;
   bottom: auto;
   top: 13px;
-  left: 109px;
+  /* left: 109px; */
   right: 0px;
   cursor: pointer;
   background-color: #fff !important;

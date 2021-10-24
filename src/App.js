@@ -1,5 +1,4 @@
 import Header from "./header";
-
 import Createnote from "./createnote";
 import Note from "./note";
 import { useState } from "react";
