@@ -1,5 +1,5 @@
 import Header from "./header";
-import Footer from "./footer";
+
 import Createnote from "./createnote";
 import Note from "./note";
 import { useState } from "react";
@@ -34,7 +34,6 @@ function App() {
           />
         );
       })}
-      <Footer />
     </>
   );
 }
